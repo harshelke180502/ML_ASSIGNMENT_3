@@ -1,7 +1,5 @@
 # ML_ASSIGNMENT_3
 
-Here is a detailed and comprehensive README file that explains all the tasks and assignments in your repository. It is structured in a professional and academic tone, suitable for university submission.
-
 ---
 
 # Machine Learning Assignments - Submission Repository
